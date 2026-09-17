@@ -5,8 +5,8 @@
 </head>
 <body>
 
-    <h1>Welcome Babe!</h1>
-    <p>Hope you like it.</p>
+    <h1>live is beautiful buddy !</h1>
+    <p>Enjoy it.</p>
 
 </body>
 </html>
