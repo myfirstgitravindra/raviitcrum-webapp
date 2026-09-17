@@ -1,24 +1,12 @@
-```html
 <!DOCTYPE html>
 <html>
-
 <head>
-    <title>My Website</title>
+    <title>My First Webpage</title>
 </head>
-
 <body>
 
-    <h1 style="color: blue;">Hello World!</h1>
-
-    <p style="color: green;">
-        Welcome to my website.
-    </p>
-
-    <button style="background-color: orange;">
-        Click Me
-    </button>
+    <h1>Hello, World!</h1>
+    <p>This is a very simple HTML page.</p>
 
 </body>
-
 </html>
-```
