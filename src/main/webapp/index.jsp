@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h1>Life is beautiful enjoy it!</h1>
+    <h1>Got a job!</h1>
     <p>Thanks everyone.</p>
 
 </body>
