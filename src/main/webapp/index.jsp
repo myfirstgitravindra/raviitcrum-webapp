@@ -5,8 +5,8 @@
 </head>
 <body>
 
-    <h1>Shilpa love you !</h1>
-    <p>very much.</p>
+    <h1>Life is beautiful enjoy it!</h1>
+    <p>Thanks everyone.</p>
 
 </body>
 </html>
